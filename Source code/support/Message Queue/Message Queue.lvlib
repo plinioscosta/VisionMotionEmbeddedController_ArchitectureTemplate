@@ -9,10 +9,15 @@
 
 </Property>
 	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
-	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
-	<Item Name="Enqueue Message.vi" Type="VI" URL="../Enqueue Message.vi"/>
-	<Item Name="Dequeue Message.vi" Type="VI" URL="../Dequeue Message.vi"/>
+	<Item Name="Obtain Message Queue (string).vi" Type="VI" URL="../Obtain Message Queue (string).vi"/>
+	<Item Name="Obtain Message Queue (enum).vi" Type="VI" URL="../Obtain Message Queue (enum).vi"/>
+	<Item Name="Enqueue Message (string).vi" Type="VI" URL="../Enqueue Message (string).vi"/>
+	<Item Name="Enqueue Message (enum).vi" Type="VI" URL="../Enqueue Message (enum).vi"/>
+	<Item Name="Enqueue Message (poly).vi" Type="VI" URL="../Enqueue Message (poly).vi"/>
+	<Item Name="Dequeue Message (string).vi" Type="VI" URL="../Dequeue Message (string).vi"/>
 	<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
-	<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
+	<Item Name="Message Cluster (string).ctl" Type="VI" URL="../Message Cluster (string).ctl"/>
 	<Item Name="Enqueue Error.vi" Type="VI" URL="../Enqueue Error.vi"/>
+	<Item Name="Message (enum).ctl" Type="VI" URL="../Message (enum).ctl"/>
+	<Item Name="Message Cluster (enum).ctl" Type="VI" URL="../Message Cluster (enum).ctl"/>
 </Library>
