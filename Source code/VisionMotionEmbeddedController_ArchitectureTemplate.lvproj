@@ -283,6 +283,7 @@ InactivityTimeout 60
 			<Item Name="Error Type.ctl" Type="VI" URL="../controls/Error Type.ctl"/>
 			<Item Name="FPGA State.ctl" Type="VI" URL="../controls/FPGA State.ctl"/>
 			<Item Name="FPGA VI Reference.ctl" Type="VI" URL="../controls/FPGA VI Reference.ctl"/>
+			<Item Name="Queues References Cluster.ctl" Type="VI" URL="../controls/Queues References Cluster.ctl"/>
 			<Item Name="Raw Values.ctl" Type="VI" URL="../controls/Raw Values.ctl"/>
 			<Item Name="RT Loop - UI Communication State.ctl" Type="VI" URL="../controls/RT Loop - UI Communication State.ctl"/>
 			<Item Name="Sequence Command.ctl" Type="VI" URL="../controls/Sequence Command.ctl"/>
@@ -759,7 +760,6 @@ InactivityTimeout 60
 				<Property Name="crio.ModuleContainerType" Type="Str">crio.RSIModuleContainer</Property>
 			</Item>
 		</Item>
-		<Item Name="Queues References Cluster.ctl" Type="VI" URL="../controls/Queues References Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
