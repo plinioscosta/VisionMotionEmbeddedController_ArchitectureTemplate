@@ -86,6 +86,8 @@
 			<Item Name="pH Setpoint Step Configuration.vi" Type="VI" URL="../Step Configuration VIs/pH Setpoint Step Configuration.vi"/>
 			<Item Name="PID Configuration.vi" Type="VI" URL="../Step Configuration VIs/PID Configuration.vi"/>
 			<Item Name="Condition Step Configuration.vi" Type="VI" URL="../Step Configuration VIs/Condition Step Configuration.vi"/>
+			<Item Name="Atuador Y.vi" Type="VI" URL="../Step Configuration VIs/Atuador Y.vi"/>
+			<Item Name="DigitalOnOff.vi" Type="VI" URL="../Step Configuration VIs/DigitalOnOff.vi"/>
 			<Item Name="Hold step configuration.vi" Type="VI" URL="../Step Configuration VIs/Hold step configuration.vi"/>
 		</Item>
 		<Item Name="UI Main.vi" Type="VI" URL="../UI Main.vi"/>
